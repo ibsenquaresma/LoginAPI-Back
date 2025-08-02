@@ -8,6 +8,3 @@ Backend da aplicação de autenticação construído com **ASP.NET Core**. Este 
 - [ASP.NET Core Web API](https://learn.microsoft.com/aspnet/core/web-api)
 - [Entity Framework Core] (opcional, se houver persistência)
 - [Visual Studio / VS Code]
-
-## 📁 Estrutura do Projeto
-
